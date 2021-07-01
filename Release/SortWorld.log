@@ -1,0 +1,13 @@
+﻿  Complex.cpp
+  InitialService.cpp
+  Integer.cpp
+  ISortObject.cpp
+  Main.cpp
+  Noninteger.cpp
+  SortService.cpp
+  Word.cpp
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+  All 336 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  SortWorld.vcxproj -> D:\Studia\3 semestr\Laboratorium PK\c4643af3-gr12-repo\Projekt\SortWorld\Release\SortWorld.exe
